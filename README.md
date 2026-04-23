@@ -10,7 +10,7 @@ Proyecto de Peer to peer, mini aplicación de transferencia de archivos y mensaj
 ## Pasos para instalación
 #### Clonar repositorio
 ```
-git clone
+git clone https://github.com/AGGGabriel15/P2P.git
 ```
 #### Crear entorno virtual
 ```
