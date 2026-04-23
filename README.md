@@ -9,10 +9,18 @@ Proyecto de Peer to peer, mini aplicación de transferencia de archivos y mensaj
 
 ## Pasos para instalación
 #### Clonar repositorio
-`git clone`
+```
+git clone
+```
 #### Crear entorno virtual
-`python -m venv venv`
+```
+python -m venv venv
+```
 #### Activar entorno virtual
-`venv\Scripts\activate`
+```
+venv\Scripts\activate
+```
 #### Instalar dependencias
-`pip install .r requirements.txt`
+```
+pip install .r requirements.txt
+```
